@@ -12,6 +12,16 @@ This repository provides models, source code, and data for **BERGAMOT**: Biomedi
 
 **TODO**
 
+
+# Training
+
+**TODO**
+
+# Evaluation
+
+**TODO**
+
+
 # Pre-trained model
 
 GAT-BERGAMOT: [https://huggingface.co/andorei/BERGAMOT-multilingual-GAT](https://huggingface.co/andorei/BERGAMOT-multilingual-GAT):
