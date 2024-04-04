@@ -12,7 +12,7 @@ This repository provides models, source code, and data for **BERGAMOT**: Biomedi
 
 # Pre-trained model
 
-[GAT-BERGAMOT](https://huggingface.co/andorei/BERGAMOT-multilingual-GAT):
+GAT-BERGAMOT: [https://huggingface.co/andorei/BERGAMOT-multilingual-GAT](https://huggingface.co/andorei/BERGAMOT-multilingual-GAT):
 
 ```
 from transformers import AutoTokenizer, AutoModel
