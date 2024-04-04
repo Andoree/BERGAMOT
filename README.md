@@ -6,9 +6,11 @@ This repository provides models, source code, and data for **BERGAMOT**: Biomedi
 
 # Overview
 
+**TODO**
+
 # Environment
 
-Required libraries are presented in [requirements.txt](https://github.com/Andoree/BERGAMOT/blob/main/requirements.txt). We ran our experiments using Python 3.8.
+Required libraries are listed in [requirements.txt](https://github.com/Andoree/BERGAMOT/blob/main/requirements.txt). We ran our experiments using Python 3.8.
 
 **TODO**
 
