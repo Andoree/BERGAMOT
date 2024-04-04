@@ -1,0 +1,3 @@
+[submodule "Fair-Evaluation-BERT"]
+	path = Fair-Evaluation-BERT
+	url = https://github.com/alexeyev/Fair-Evaluation-BERT
