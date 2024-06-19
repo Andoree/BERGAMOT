@@ -27,5 +27,14 @@ model = AutoModel.from_pretrained("andorei/BERGAMOT-multilingual-GAT")
 
 
 # Citation
-
-**TODO**
+```bibtex
+@inproceedings{sakhovskiy-et-al-2024-bergamot,
+    title = "Biomedical Entity Representation with Graph-Augmented Multi-Objective Transformer",
+    author = "Sakhovskiy, Andrey and Semenova, Natalia and Kadurin, Artur and Tutubalina, Elena",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2024",
+    month = jun,
+    year = "2024",
+    address = "Mexico City, Mexico",
+    publisher = "Association for Computational Linguistics",
+  }
+```
