@@ -5,14 +5,6 @@ This repository provides models, source code, and data for **BERGAMOT**: **B**io
 ![BERGAMOT](fig/bergamot.jpg)
 
 
-# Data
-
-**TODO**
-
-
-# Training
-
-**TODO**
 
 # Evaluation
 
