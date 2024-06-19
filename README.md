@@ -8,7 +8,12 @@ This repository provides models, source code, and data for **BERGAMOT**: **B**io
 
 # Evaluation
 
-**TODO**
+To run zero-shot evaluation as described in our NAACL paper, you need to download the evaluation [data](https://github.com/AIRI-Institute/medical_crossing). To  run the evaluation, use the [eval_bert_ranking](https://github.com/alexeyev/Fair-Evaluation-BERT/tree/de40551e21f4bc2d38eb40d658f14a705cd596d7) script:
+```python
+python Fair-Evaluation-BERT/eval_bert_ranking.py --model_dir "andorei/BERGAMOT-multilingual-GAT" \
+    --data_folder "data_medical_crossing/datasets/mantra/es/DISO-fair_exact_vocab" \
+    --vocab "data_medical_crossing/vocabs/mantra_es_dict_DISO.txt"
+```
 
 # Environment
 
