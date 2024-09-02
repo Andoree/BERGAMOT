@@ -4,7 +4,7 @@ This repository provides models, source code, and data for **BERGAMOT**: **B**io
 
 ![BERGAMOT](fig/bergamot.jpg)
 
-
+The model supports all the languages available in UMLS version 2020AB: English, Spanish, French, Dutch, German, Finnish, Russian, Turkish, Korean, Chinese, Japanese, Thai, Portuguese, Italian, Swedish, Hungarian, Polish, Estonian, Croatian, Ukrainian, Greek, Danish, Hebrew.
 
 # Evaluation
 
