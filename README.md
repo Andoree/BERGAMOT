@@ -6,6 +6,14 @@ This repository provides models, source code, and data for **BERGAMOT**: **B**io
 
 The model supports all the languages available in UMLS version 2020AB: English, Spanish, French, Dutch, German, Finnish, Russian, Turkish, Korean, Chinese, Japanese, Thai, Portuguese, Italian, Swedish, Hungarian, Polish, Estonian, Croatian, Ukrainian, Greek, Danish, Hebrew.
 
+Here is the poster of our [paper presented at NAACL 2024](https://aclanthology.org/2024.findings-naacl.288.pdf):
+
+<p align="center">
+<img src="https://github.com/Andoree/BERGAMOT/blob/main/BERGAMOT_poster_naacl.jpg" width="800">
+</p>
+
+
+
 # Evaluation
 
 To run zero-shot evaluation as described in our NAACL paper, you need to download the evaluation [data](https://github.com/AIRI-Institute/medical_crossing). To  run the evaluation, use the [eval_bert_ranking](https://github.com/alexeyev/Fair-Evaluation-BERT/tree/de40551e21f4bc2d38eb40d658f14a705cd596d7) script:
