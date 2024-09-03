@@ -1,6 +1,6 @@
 # BERGAMOT: Biomedical Entity Representation with Graph-Augmented Multi-Objective Transformer
 
-This repository provides models, source code, and data for **BERGAMOT**: **B**iomedical **E**ntity **R**epresentation with **G**raph-**A**ugmented **M**ulti-**O**bjective **T**ransformer which will be presented at [NAACL 2024](https://2024.naacl.org/).
+This repository provides models, source code, and data for **BERGAMOT**: **B**iomedical **E**ntity **R**epresentation with **G**raph-**A**ugmented **M**ulti-**O**bjective **T**ransformer which will be presented at [NAACL 2024](https://aclanthology.org/2024.findings-naacl.288).
 
 ![BERGAMOT](fig/bergamot.jpg)
 
